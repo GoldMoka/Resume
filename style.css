@@ -10,4 +10,6 @@
 #myface {
     float: left;
     margin: 50px;
+    border-radius: 20%;
+    border: 15px beige solid;
 }
