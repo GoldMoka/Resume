@@ -1,0 +1,13 @@
+*{
+    background-color:bisque
+}
+
+#saymyname {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 50px;
+}
+
+#myface {
+    float: left;
+    margin: 50px;
+}
